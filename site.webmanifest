@@ -1,0 +1,14 @@
+{
+  "name": "Pedra Forth Marmoraria",
+  "short_name": "Pedra Forth",
+  "description": "Marmoraria de alto padrão em Lavras/MG",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
